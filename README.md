@@ -25,6 +25,7 @@
 ### 🛠️ Tech stack
 
 **Languages & Frameworks**
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -36,6 +37,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Data & APIs**
+<br>
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -43,6 +45,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Cloud, DevOps & Tooling**
+<br>
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4051B5?style=flat-square&logo=githubactions&logoColor=white)
@@ -52,6 +55,7 @@
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 **E-commerce & CMS**
+<br>
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Centra](https://img.shields.io/badge/-Centra-1A1A1A?style=flat-square)
 ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
@@ -60,6 +64,7 @@
 ![Depict](https://img.shields.io/badge/-Depict-000000?style=flat-square)
 
 **AI**
+<br>
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-412991?style=flat-square)
 
